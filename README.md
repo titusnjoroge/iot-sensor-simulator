@@ -35,29 +35,27 @@ firmware_sim/
 gateway/
 analytics/
 
-
 ---
 
 ## 🚀 How to Run
 
 ### 1. Install dependencies
-```bash
-pip install -r requirements.txt 
-```
 
-2. Run IoT Gateway
+```bash
+pip install -r requirements.txt
+```
 python gateway/logger.py
 
-3. Visualize Data
 python analytics/visualize.py
 
-Output
+#Output
 CSV log of sensor data
 Live terminal logging
 Graph showing sensor trends
 
-Future Improvements
+#Future Improvements
 Add MQTT communication
 Replace simulation with ESP32 hardware
 Build Flask web dashboard
 Add real-time WebSocket updates
+
