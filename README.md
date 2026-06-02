@@ -42,5 +42,22 @@ analytics/
 
 ### 1. Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
+```
 
+2. Run IoT Gateway
+python gateway/logger.py
+
+3. Visualize Data
+python analytics/visualize.py
+
+Output
+CSV log of sensor data
+Live terminal logging
+Graph showing sensor trends
+
+Future Improvements
+Add MQTT communication
+Replace simulation with ESP32 hardware
+Build Flask web dashboard
+Add real-time WebSocket updates
