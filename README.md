@@ -7,7 +7,7 @@ It demonstrates how IoT devices send data to a gateway and how data is processed
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 Sensor Node → Gateway → CSV Storage → Data Visualization
 
@@ -22,7 +22,7 @@ Sensor Node → Gateway → CSV Storage → Data Visualization
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 - C (embedded firmware simulation)
 - Python (IoT simulation + backend)
 - Pandas (data handling)
@@ -30,14 +30,14 @@ Sensor Node → Gateway → CSV Storage → Data Visualization
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 firmware_sim/
 gateway/
 analytics/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Install dependencies
 
