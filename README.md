@@ -13,6 +13,8 @@ Sensor Node → Gateway → CSV Storage → Data Visualization
 
 ---
 
+
+
 ## ⚙️Features
 - Simulated temperature & humidity sensor data
 - Embedded-style firmware logic (C simulation)
