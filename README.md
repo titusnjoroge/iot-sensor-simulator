@@ -7,6 +7,8 @@ It demonstrates how IoT devices send data to a gateway and how data is processed
 
 ---
 
+
+
 ## System Architecture
 
 Sensor Node → Gateway → CSV Storage → Data Visualization
